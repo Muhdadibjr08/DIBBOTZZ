@@ -51,26 +51,26 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '0146536481'
+global.povo = '0146536481'
+global.pgopay = '0146536481'
+global.ppulsa = '0146536481'
+global.ppulsa2 = '0146536481'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '60147366955'
-global.namebot = 'Kyzo'
-global.nameown = '𝕻𝖚𝖙'
+global.nomorbot = '60146536481'
+global.nomorown = '60146536481'
+global.namebot = 'DIBZ'
+global.nameown = 'DIBBOTZZ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60147366955', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['60146536481', 'DIBBOTZZ', true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // Dibz your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 

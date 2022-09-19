@@ -1,5 +1,5 @@
-// MADE BY BOCHILGAMING
-// RECODE BY PUTBOTZ
+// MADE BY GIPEALOKBANG
+// RECODE BY DIBZBOT
 
 import { promises } from 'fs'
 import { join } from 'path'
@@ -250,7 +250,7 @@ let tek = `*${ucapan()} ${conn.getName(m.sender)}*
 `
 const listMessage = {
   text: tek,
-  footer: '© by 𝕻𝖚𝖙 𝕯𝖊𝖛',
+  footer: '© by DIBZBOT',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `CLICK HERE ⎙`,
